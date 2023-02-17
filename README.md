@@ -18,4 +18,4 @@
 
 ## Peace
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/p4ulor/p4ulor/blob/main/imgs/matrix.jpg?raw=true))
+![App Screenshot](https://github.com/p4ulor/p4ulor/blob/main/imgs/matrix.jpg))
