@@ -30,7 +30,7 @@ Java, Kotlin, C++, XML, HTML, CSS, SQLite, SQL Server, Android
 ## Contact Me
 
 - [@Gmail](mizoo.askar@gmail.com)
-- [@Facebook]([mizoo.askar@gmail.com](https://www.facebook.com/askar.mizo.7/))
+- [@Gmail](https://www.facebook.com/askar.mizo.7/)
 
 ## Peace
 
