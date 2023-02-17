@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohammad Askar</h1>
-<h3 align="center">I'm from Syria</h3>
+
+## 🚀 About Me
+I'm Mohammad Askar From syria, living in Germany!
 
 
 👩‍💻 I'm currently working on **Movie app with Jetback compose and clean architecture**
