@@ -17,7 +17,7 @@ I'm Mohammad Askar From syria, living in Germany!
 
 😄 Pronouns...
 
-⚡️ Fun fact ** I am not Funny! **
+⚡️ Fun fact **I am not Funny!**
 
 
 
