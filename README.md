@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Askar</h1>
-<h3 align="center">I'm from Portugal and at the time of this writing. I'm currently doing a computer science and computer engineering course in ISEL I'm a very cool human being, srs.</h3>
+<h3 align="center">I'm from Syria</h3>
 
 - 🔭 I’m currently working on **Movie app with Jetback compose and clean architecture**
 
